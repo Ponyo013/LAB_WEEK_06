@@ -66,6 +66,77 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                // Tambahan 10 data lagi, pakai 3 breed yang ada
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Luna",
+                    "Energetic and playful",
+                    "https://cdn2.thecatapi.com/images/8q2.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShortHair,
+                    "Thor",
+                    "The gentle giant",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Bella",
+                    "Talkative and loyal",
+                    "https://cdn2.thecatapi.com/images/ai6.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.BalineseJavanese,
+                    "Mochi",
+                    "Always relaxed and calm",
+                    "https://cdn2.thecatapi.com/images/a86.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShortHair,
+                    "Oliver",
+                    "Loves luxury naps",
+                    "https://cdn2.thecatapi.com/images/cuk.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Cleo",
+                    "Charming and curious",
+                    "https://cdn2.thecatapi.com/images/MTczNzcxNA.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "Leo",
+                    "Quiet but observant",
+                    "https://cdn2.thecatapi.com/images/cfb.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShortHair,
+                    "Misty",
+                    "Loves attention and cuddles",
+                    "https://cdn2.thecatapi.com/images/c9a.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.AmericanCurl,
+                    "Shadow",
+                    "Explorer of new places",
+                    "https://cdn2.thecatapi.com/images/cmf.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "Simba",
+                    "Friendly and adventurous",
+                    "https://cdn2.thecatapi.com/images/57r.jpg"
                 )
             )
         )
